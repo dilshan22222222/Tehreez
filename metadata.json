@@ -1,0 +1,6 @@
+{
+  "name": "TEHREEZ | Luxury Craft & Lifestyle",
+  "description": "A modern, premium e-commerce destination for TEHREEZ featuring high-quality handcrafted goods, timeless couture, artisanal leather, and fine accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
